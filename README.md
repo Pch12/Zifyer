@@ -26,12 +26,13 @@ go build Client.go
 <h4>Upload to machine mode:</h4>
 <p>Zifyer.exe -u -H "I.P/DOMAIN to get file from" -p "Port" -f "file location example: /home/test.txt"</p>
 
-<h3>Server</h3>
+<h3>Server Usage:</h3>
 <p>-h for help</p>
 <p>-H IP to host server </p>
 <p>-p Port </p>
 <p>dir Directory to store uploads</p>
 
+<p>./Final_Server -H "I.p to host the server" -p "Port" dir "Directory to upload the files to" 
 <p>1. compile -> go build Final_Server.go</p>
 <p>2. run -> ./Final_Server -H 192.168.1.39 -p 9000 dir uploads </p>
 <p> File upload can also be made via Web, just go to your server's url and upload manually :) </p>
