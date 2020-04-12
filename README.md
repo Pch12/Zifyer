@@ -31,8 +31,8 @@ go build Client.go
 
 <h4>Upload to machine mode:</h4>
 <p>Zifyer.exe -u -H "I.P/DOMAIN to get file from" -p "Port" -f "file location example: /home/test.txt"</p>
-<p></p>
-<p></p>
+
+
 <h3>Zifyer_Server Usage:</h3>
 <p>-h for help</p>
 <p>-H IP to host server </p>
