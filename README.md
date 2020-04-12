@@ -1,5 +1,5 @@
 <h1>Zifyer Client-Server</h1>
-This is a small tool to upload/download files from a machinei while with a reverse shell in it
+This is a small tool to upload/download files from a machine while connected with a shell to it
 <p>For those who are knew to this:</p>
 <p>apt-get install golang</p>
 
