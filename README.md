@@ -32,7 +32,7 @@ go build Client.go
 <p>-p Port </p>
 <p>dir Directory to store uploads</p>
 
-<p>2. compile -> go build Final_Server.go</p>
-<p>3. run -> ./Final_Server -H 192.168.1.39 -p 9000 dir uploads </p>
+<p>1. compile -> go build Final_Server.go</p>
+<p>2. run -> ./Final_Server -H 192.168.1.39 -p 9000 dir uploads </p>
 <p> File upload can also be made via Web, just go to your server's url and upload manually :) </p>
 
