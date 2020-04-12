@@ -41,6 +41,6 @@ go build Client.go
 
 <p>./Zifyer_Server -H "I.p to host the server" -p "Port" dir "Directory to upload the files to" 
 <p>1. compile -> go build Final_Server.go</p>
-<p>2. run -> ./Zifyer -H "Your I.P" -p 9000 dir uploads </p>
+<p>2. run -> ./Zifyer_Server -H "Your I.P" -p 9000 dir uploads </p>
 <p> File upload can also be made via Web, just go to your server's url and upload manually :) </p>
 
