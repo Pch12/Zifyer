@@ -26,10 +26,10 @@ go build Client.go
 <p>-p Port </p>
 <p>-f File </p>
 
-<h4>Download to machine mode: </h4>
+<h4>Download to Server mode: </h4>
 <p>Zifyer.exe -d -H "Remote I.P/DOMAIN" -p "Port" -f "file location example: /home/test.txt"</p>
 
-<h4>Upload to machine mode:</h4>
+<h4>Upload to Attacking machine mode:</h4>
 <p>Zifyer.exe -u -H "I.P/DOMAIN to get file from" -p "Port" -f "file location example: /home/test.txt"</p>
 
 
