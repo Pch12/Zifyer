@@ -1,10 +1,10 @@
 <h1>Zifyer Client-Server</h1>
 This is a small tool to upload/download files from a machine while connected with a shell to it
-Seps:
-1. Get a shell to the target
-2. Run the server on your machine.
-3. Drop the Zifyer binary to target machine.
-4. Upload/Download files between the shells.
+<p>Steps:</p>
+<p>1. Get a shell to the target</p>
+<p>2. Run the server on your machine.</p>
+<p>3. Drop the Zifyer binary to target machine.</p>
+<p>4. Upload/Download files between the shells.</p>
 
 <p>For those who are knew to this:</p>
 <p>apt-get install golang</p>
