@@ -1,5 +1,5 @@
 <h1>Zifyer Client-Server</h1>
-This is a small tool to upload/download files from a machine while connected with a shell to it
+This is a small tool to upload/download files from a machine while connected with a shell to it, no imports, plane and simple in order to avoid powershell and etc..
 <p>Steps:</p>
 <p>1. Get a shell to the target</p>
 <p>2. Run the server on your machine all files will be under the directory 'uploads'.</p>
