@@ -6,7 +6,7 @@ This is a small tool to upload/download files from a machine while connected wit
 <p>3. Drop the Zifyer binary to target machine.</p>
 <p>4. Upload/Download files between the shells.</p>
 
-<p>For those who are knew to this:</p>
+<p>For those who are new to this:</p>
 <p>apt-get install golang</p>
 
 <h3>Compile for windows x86/x64:</h3>
